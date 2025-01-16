@@ -1,3 +1,0 @@
-C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\OsTasks.dir/objects.a
-C:\mingw64\bin\ar.exe qc CMakeFiles\OsTasks.dir/objects.a @CMakeFiles\OsTasks.dir\objects1.rsp
-C:\mingw64\bin\gcc.exe -Wl,--whole-archive CMakeFiles\OsTasks.dir/objects.a -Wl,--no-whole-archive -o OsTasks.exe -Wl,--out-implib,libOsTasks.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OsTasks.dir\linkLibs.rsp

@@ -1,3 +1,0 @@
-C:/Users/alexl/Documents/os_projects/os_tasks/build/CMakeFiles/OsTasks.dir
-C:/Users/alexl/Documents/os_projects/os_tasks/build/CMakeFiles/edit_cache.dir
-C:/Users/alexl/Documents/os_projects/os_tasks/build/CMakeFiles/rebuild_cache.dir
