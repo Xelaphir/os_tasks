@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/alexl/Documents/os_projects/os_tasks/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\OsTasks.dir\\main.c.obj -c C:\\Users\\alexl\\Documents\\os_projects\\os_tasks\\main.c",
+  "file": "C:/Users/alexl/Documents/os_projects/os_tasks/main.c",
+  "output": "CMakeFiles/OsTasks.dir/main.c.obj"
+}
+]
