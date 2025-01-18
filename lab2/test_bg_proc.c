@@ -1,4 +1,4 @@
-#include "background_prog.h"
+#include "bg_proc.h"
 #include <stdio.h>
 
 int main(int argc, char** argv){
